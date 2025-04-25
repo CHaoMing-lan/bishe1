@@ -141,7 +141,7 @@ plt.rcParams['axes.unicode_minus'] = False
 
 # --- 页面配置 ---
 st.set_page_config(
-    page_title="无创血糖预测系统",
+    page_title="个人消费贷款违约识别",
     page_icon="❤️",
     layout="wide"
 )
