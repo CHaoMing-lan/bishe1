@@ -135,10 +135,10 @@ import shap
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 
-# 创建新虚拟环境
-python3.10 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+# # 创建新虚拟环境
+# python3.10 -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
 
 
 # 设置中文字体
